@@ -1,12 +1,12 @@
-## Cowsay in cpp
+# Cowsay
 
-Simple Cowsay program in C++ 
+Simple Cowsay program in C++.
 
-# Compilation and run
+## Compilation and run
 
 Clone the repository
 ```bash
-git clone https://github.com/Ars-byte/Cowsay_In_Cpp.git
+git clone https://github.com/Ars-byte/Cowsay.git
 ```
 
 Compile the program:
